@@ -1,0 +1,5 @@
+int drawable black 0x7f030000
+int drawable white 0x7f030001
+int id key_pin_ok 0x7f040001
+int id text_key_pin 0x7f040000
+int layout user_pin 0x7f020000
